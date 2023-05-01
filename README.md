@@ -42,4 +42,4 @@ OpenBB SDK
 
 RiskFolio-Lib
 
-I added the csv sheet. You need to chnage the URL to the file in the playbook.
+I added the csv sheet. You need to change the URL to the file in the playbook.
