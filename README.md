@@ -1,6 +1,9 @@
 # Importing TastyTrade Transactions CSV into Python
 Adding my options trading quant coding efforts here for the public to see #buildinpublic #tradeinpublic
 Importing Transactions CSV into Python
+
+See in this repository the Jupyter Playbook I created: https://github.com/NicPeer/Converting-Tasty-Trade-Transactions-Data-into-pandas/blob/main/BlueskyNomad_TastyTrade_Transactions_11Mar22_04Apr23.ipynb
+
 In this playbook I want to mirror my transaction journal I maintain in Excel and on in the weekly trading journal entries on my website (www.blueskynomad.com). The goal is to save time, improve data quality and being able to do more analysis.
 
 I am using the transactions CSV downloaded from Tastytrade for the first year of my options trading. At a later stage I want to add/merge/parse also the 'Year-to-Date'and my Positions data which I download daily. The idea is that I only have to upload the lastest transactions overview and load it into this notebook. I will do the same for my Interacyive Brokers' transactions. As a next project, I want to use TastyTrade's and IB's APIs to automate this.
